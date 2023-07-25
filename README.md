@@ -22,5 +22,4 @@ I. Thông tin nhóm:
 	<td>2000005479</td>
 	<td>Thành viên nhóm</td>
 </tr>
-
 </table>
