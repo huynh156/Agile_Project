@@ -1,6 +1,28 @@
-﻿# Agile_Project
+﻿# Dự án quản lý sinh viên
 
 I. Thông tin nhóm:
-Nguyễn Văn Linh - 2000004278 (Nhóm trưởng) <br/>
-Nguyễn Hoàng Phúc - 2000003640  <br/>
-Trần Tuấn Huynh - 2000005479 <br/>
+
+
+<table>
+<tr>
+	<th>Tên Thành viên</th>
+	<th>Mã sinh viên</th>
+	<th>Vai trò</th>
+</tr>
+<tr>
+	<td>Nguyễn Văn Linh</td>
+	<td>2000004378</td>
+	<td>Nhóm trưởng</td>
+</tr>
+<tr>
+	<td>Nguyễn Hoàng Phúc</td>
+	<td>2000003640</td>
+	<td>Thành viên nhóm</td>
+</tr>
+<tr>
+	<td>Trần Tuấn Huynh</td>
+	<td>2000005479</td>
+	<td>Thành viên nhóm</td>
+</tr>
+
+</table>
