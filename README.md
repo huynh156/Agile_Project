@@ -1,10 +1,6 @@
 ﻿# Dự án quản lý sinh viên
 
 I. Thông tin nhóm:
-
-<style>
-th {background-color:red;}
-</style>
 <table>
 <tr>
 	<th>Tên Thành viên</th>
